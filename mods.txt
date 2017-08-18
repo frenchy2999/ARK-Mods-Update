@@ -1,0 +1,22 @@
+logon anonymous
+force_install_dir C:\gameservers\ARK1
+
+workshop_download_item 346110 845855498 
+workshop_download_item 346110 751991809 
+workshop_download_item 346110 731604991 
+workshop_download_item 346110 889745138 
+workshop_download_item 346110 812655342 
+workshop_download_item 346110 821530042 
+workshop_download_item 346110 899250777 
+workshop_download_item 346110 897664600
+workshop_download_item 346110 558079412 
+workshop_download_item 346110 779897534 
+workshop_download_item 346110 719928795 
+workshop_download_item 346110 924933745 
+workshop_download_item 346110 876038468
+workshop_download_item 346110 632091170
+exit
+
+
+
+
